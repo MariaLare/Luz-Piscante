@@ -1,0 +1,11 @@
+img:hover{
+    content: url(ligado.png);
+}
+body{
+
+background-color: #838383;
+}
+
+.img{
+    width: 30%;
+}
